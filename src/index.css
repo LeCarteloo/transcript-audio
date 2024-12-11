@@ -1,0 +1,14 @@
+:root {
+  background-color: #242424;
+  color: rgb(255 255 255 / 87%);
+
+  font-weight: 400;
+  font-family: 'Inter', system-ui, 'Avenir', 'Helvetica', 'Arial', sans-serif;
+  font-synthesis: none;
+
+  line-height: 1 5;
+  color-scheme: light dark;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
