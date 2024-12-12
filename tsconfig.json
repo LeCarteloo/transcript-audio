@@ -19,9 +19,6 @@
   "include": [
     ".eslintrc",
     "vite.config.ts",
-    "jest.config.cjs",
-    "playwright.config.ts",
-    "playwright",
     "src"
   ],
   "references": [{ "path": "./tsconfig.node.json" }]
